@@ -1,5 +1,7 @@
 # Vue, введение
 
+Проект доступен по ссылке [gitHub](https://github.com/Rol225/vuevite_month_1_lesson_2)
+
 ## Домашнее задание
 Создание проекта с Vite
 
